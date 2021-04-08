@@ -1,0 +1,58 @@
+body{
+    background-color: white;
+}
+
+.imagen{
+    display: block;
+    width: 100%;
+    height:100%;
+    align-items: center;
+
+}
+
+.escudo {
+    display: block;
+    width: 100%;
+    align-items: center;
+}
+
+.copas{
+    
+    display: block;
+    width: 30%; 
+}
+
+.hinchas{
+    display: block;
+    width: 100%; 
+}
+
+.row {
+    margin: auto;
+}
+
+.parr{
+    color: black;
+    font-weight: bold;
+}
+
+#encabezado {
+    background-color: red;
+    color: white;
+    height:33%;
+
+}
+#centerText{
+    display: flex;
+    align-items: center;
+}
+
+#centerText2{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+#link{
+    color: white;
+}
